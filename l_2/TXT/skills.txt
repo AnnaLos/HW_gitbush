@@ -1,0 +1,12 @@
+SKILLS
+1) GitHub
+2) GitBash
+3) DevTools
+4) Postman
+5) SQL 
+6) ADB
+7) Android Studio
+8) Charles
+9) Jmeter
+10) Fiddler
+12) Phython

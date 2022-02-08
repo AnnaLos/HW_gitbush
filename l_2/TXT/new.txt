@@ -1,0 +1,5 @@
+ 1) Name: Anna,
+ 2) Surname: Los,
+ 3) Middle name: Alexandrovna,
+ 4) Pets: cat,
+ 5) Salary: 1000$.
